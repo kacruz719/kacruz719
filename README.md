@@ -13,7 +13,7 @@
 <ul>
   <li>🔭 Currently working on <strong>Production-level applications</strong></li>
   <li>💬 Ask me about <strong>React, BOS, and modern web technologies</strong></li>
-  <li>📫 Reach me at <strong>kacruz719@bounty.com.ph</strong></li>
+  <li>📫 Reach me at <strong>kacruz@bounty.com.ph</strong></li>
 </ul>
 
 <h3 align="left">Languages and Tools</h3>
